@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "语音录入"
+  },
+  "permission": {
+    "scope.record": {
+      "desc": "你的录音功能需要使用录音权限"
+    }
+  }
+}
